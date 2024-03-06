@@ -1,0 +1,44 @@
+body{
+  
+}
+.container{
+    background-color: red;
+    position: relative;
+    border: 3px solid black;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.box {
+    text-align: center;
+    background-color: yellowgreen;
+    position: relative;
+    height: 5px;
+    width: 5px;
+    padding: 13px;
+    border: 3px solid black;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.box1{
+    top: -15px;
+    left: -18px;
+}
+.box2{
+    top: -50px;
+    left: 230px;
+}
+.box3{
+    top: 165px;
+    left: -15px;
+}
+.box4{
+    top: 131px;
+    left: 230px;
+}
